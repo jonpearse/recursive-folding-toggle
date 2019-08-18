@@ -1,0 +1,20 @@
+{
+  "name": "recursive-folding-toggle",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Quick and dirty recursive code folding",
+  "keywords": [
+    "code-folding",
+    "folding",
+    "recursive"
+  ],
+  "activationCommands": {
+    "atom-workspace": "recursive-folding-toggle:toggle"
+  },
+  "repository": "https://github.com/jonpearse/recursive-folding-toggle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
